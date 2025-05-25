@@ -1,0 +1,43 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+*.egg-info/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Data files
+*.csv
+*.tsv
+*.log
+
+# Large model files (optional, tracked with LFS)
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.onnx
+
+# Notebook outputs (optional)
+*.nbconvert.ipynb
